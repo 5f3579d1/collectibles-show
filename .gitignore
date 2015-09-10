@@ -1,0 +1,14 @@
+.*
+
+!.gitignore
+
+build
+classes
+target
+
+collectibles-show.iml
+
+gradle
+gradlew
+gradlew.bat
+
