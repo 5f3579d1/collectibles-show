@@ -1,9 +1,9 @@
 spring:
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://mysql-host/dbname
-    username: user
-    password: password
+    url: jdbc:mysql://mysql.whiletime.com/k
+    username: root
+    password: ttwahaha
 
   jpa:
     database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
